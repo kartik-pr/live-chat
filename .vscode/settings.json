@@ -1,0 +1,11 @@
+{
+    "editor.cursorStyle": "line-thin",
+    "editor.wordWrap": "on",
+    "editor.autoClosingBrackets": "always",
+    "editor.autoClosingQuotes": "always",
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true
+}
